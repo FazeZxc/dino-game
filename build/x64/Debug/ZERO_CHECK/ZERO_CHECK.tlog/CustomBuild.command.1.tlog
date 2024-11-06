@@ -1,0 +1,10 @@
+^C:\USERS\ABHIN\DOCUMENTS\DINO-GAME\BUILD\CMAKEFILES\F03BF93C7C537A665E897A6704E90E14\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/abhin/Documents/dino-game -BC:/Users/abhin/Documents/dino-game/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/abhin/Documents/dino-game/build/dino.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

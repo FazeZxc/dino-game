@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\abhin\Documents\dino-game\build\CMakeFiles\f03bf93c7c537a665e897a6704e90e14\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{90B73AE9-6045-3AB2-BE0A-1B2F556BAEBE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
